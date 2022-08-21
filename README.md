@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My Github Stats&username=MohammedMaaz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=Languages&username=MohammedMaaz" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=Languages Used&username=MohammedMaaz" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">A passionate and self learnt fullstack engineer with more than 3 years of professional experience in developing and scaling mobile and web applications from scratch. A problem solver at heart ❤️<br><br>See my portfolio at <a href="https://www.maazkhawar.me/" target="_blank">https://www.maazkhawar.me</a></p>
+<p align="left">A passionate and self learnt fullstack engineer with more than 3 years of professional experience in developing and scaling mobile and web applications from scratch. A problem solver at heart ❤️<br><br>See my portfolio at https://www.maazkhawar.me/</p>
 
 ###
 
